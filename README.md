@@ -1,6 +1,6 @@
 ### Hello, everyone 👋
 
-I am Virgílio, a data analyst studying to become a data scientist, graduated in IT ([Information System](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86200&codhab=204&tipo=N)) at [University of São Paulo (USP)](https://www5.usp.br).
+I’m Virgílio, a data analyst studying to become a data scientist, graduated in IT ([Information Systems](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86200&codhab=204&tipo=N)) at [University of São Paulo (USP)](https://www5.usp.br).
 
 →  🔭 I’m currently working on a fashion e-commerce as a Business Intelligence Analyst, dealing with Redshift, Postgres and business data management
 
