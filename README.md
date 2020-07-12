@@ -10,7 +10,7 @@ I am Virgílio, a data analyst studying to become a data scientist. I am graduat
 
 →  💬 Ask me about anything, I really enjoy to meet new people and talk
 
-→  📫 How to reach me: [Telegram](https://t.me/vafjr87), [LinkedIn](https://linkedin.com/in/vafjr87) or [Instagram](https://instagram.com/vafjr87) 
+→  📫 How to reach me: [LinkedIn](https://linkedin.com/in/vafjr87), [Telegram](https://t.me/vafjr87) or [Instagram](https://instagram.com/vafjr87) 
 
 Feel free to contact me! 👨🏽‍💻
 
