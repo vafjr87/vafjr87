@@ -2,15 +2,13 @@
 
 I’m Virgílio, a data analyst studying to become a data scientist, graduated in IT ([Information Systems](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86200&codhab=204&tipo=N)) at [University of São Paulo (USP)](https://www5.usp.br).
 
-🔭 I’m currently working on a fashion e-commerce as a Business Intelligence Analyst, dealing with Redshift, Postgres and business data management
-
-🌱 I’m currently learning conceptual topics about machine learning and data science
+🔭 I’m currently working as a Data Engineer, dealing with Databricks and Pyspark
 
 ⚡ Fun fact: I have also experience in systems development, plenty interest in learning languages and in programming oriented to natural languages
 
 💬 Ask me about anything, I really enjoy to meet new people and talk
 
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/vafjr87), [Telegram](https://t.me/vafjr87) or [Instagram](https://instagram.com/vafjr87) 
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/virgilio-fernandes), [Telegram](https://t.me/vafjr87) or [Instagram](https://instagram.com/vafjr87) 
 
 Feel free to contact me! 👨🏽‍💻
 
