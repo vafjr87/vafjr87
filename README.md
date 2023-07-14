@@ -2,7 +2,7 @@
 
 I’m Virgílio, a data entusiast, graduated in IT ([Information Systems](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86200&codhab=204&tipo=N)) at [University of São Paulo (USP)](https://www5.usp.br).
 
-🔭 I’m currently working as a Data Engineer, dealing with Databricks, Pyspark and Airflow.
+🔭 I’m currently working as a Data Engineer, dealing with Salesforce, Airflow, GCP and a lot Python and SQL scripts. 
 
 ⚡ Fun fact: I have also experience in systems development, plenty interest in learning languages and in programming oriented to natural languages
 
